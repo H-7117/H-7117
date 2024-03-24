@@ -1,6 +1,6 @@
 ### Hammod Alattas 
 
-- 👋 I'm a software engineer
+- 👋 I'm a frontend developer ,specialist (Next.js,Laravel)
 - 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently learning.
 - 💬 Ask me about PHP LARAVEL.
