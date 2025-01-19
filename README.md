@@ -3,7 +3,7 @@
 - 👋 I'm a frontend developer ,specialist (Next.js,Laravel)
 - 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently learning.
-- 💬 Ask me about PHP LARAVEL.
+- 💬 Ask me about (React Js , Next Js , PHP , LARAVEL).
 - 📫 How to reach me: INS: @h.7117, Website: https://www.linkedin.com/in/hamood-alattas-649380258/ 
 
 <hr/>
